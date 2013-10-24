@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+		<title> Dream Beans </title>
+</head>
+
+<body>
+
+<header>
+		<a href="index.html">
+		<img src="images/beans-logo.png"></a>
+		<h1> Beans Caffee </h1>
+		<nav>
+		<a href="beans">Beans</a>
+		<a href="specials">Specials</a>
+		<a href="contact">Contact</a>
+		<a href="about">About</a>
+		</nav>
+</header>
+
+<img src="http://charlestoncoffeeexchange.com/wp-content/uploads/2013/05/coffee-bean-extract1.jpg">
+
+
+
+</body>
+</html>
+

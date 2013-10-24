@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Super Blog</title>
+</head>
+
+
+<body>
+
+<header>
+
+<a href="index.html">
+<img src="images/blog-logo.png"></a>
+<nav>
+<ul>
+	<li><a href="about">About</a></li>
+	<li><a href="archive">Archives</a></li>
+	<li><a href="contact">Contact</a></li>
+</ul>
+</nav>
+</header>
+
+<nav>
+<ul>
+<li>February</li>
+	<ol>
+	<li><a href="#quick">The quick, brown fox jumps over a lazy dog.</a></li>
+	<li><a href="#jolt">Jolt my wax bed</a></li>
+	<li><a href="#very">A very bad quack jinx zippy fowls</a></li>
+	<li><a href="#flummoxed">Flummoxed by job</a></li>
+	<li><a href="#cozy">Cozy sphinx waves quart jug of bad milk</a></li>
+	<li><a href="#quips">Few quips galvanized box</a></li>
+	</ol>
+<li>January</li>
+	<ol>
+	<li><a href="#blowzy">Blowzy red vixens fight</a></li>
+	</ol>
+</ul>
+ </nav>
+
+
+
+</body>
+</html>

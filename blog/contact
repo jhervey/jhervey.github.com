@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Super Blog</title>
+</head>
+
+
+<body>
+
+<header>
+
+<a href="index.html">
+<img src="images/blog-logo.png"></a>
+<nav>
+<ul>
+	<li><a href="about">About</a></li>
+	<li><a href="archive">Archives</a></li>
+	<li><a href="contact">Contact</a></li>
+</ul>
+</nav>
+</header>
+
+<h2>Have a Question? <h2>
+<a href="mailto:jhervey@bu.edu">Email Me!</a> 
+
+
+
+</body>
+</html>
