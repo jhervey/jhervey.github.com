@@ -1,7 +1,15 @@
-#header{text-align:left;margin-bottom:-30px;}
+body{
+	padding: 0px;
+	margin: 0px;
+}
+
+#header{
+	text-align:left;
+	margin-bottom:-30px;
+}
 #topnav{text-align:right;border-bottom:solid;margin-right:300px;word-spacing: 15px;line-height:40px;}
 #left li{list-style-type:none;line-height:40px;margin-left:-20px;margin-right:50px;}
-#leftnav{position: fixed;margin-top: 20px;}
+#leftnav{position: absolute;margin-top: 20px;}
 #articles{margin-left:310px;margin-right:300px;margin-bottom:20px}
 #footer {clear:both;border-top:solid;margin-right:300px;line-height:20px}
 #about{margin-right:300px}
@@ -9,7 +17,9 @@ a:link {text-decoration:none;}
 a:visited {text-decoration:none;}
 body{font-family:Leaguegothic}
 
-@font-face{font-family: Leaguegothic;src: url('type/League-Gothic-Regular.otf');}
+@font-face{
+	font-family: Leaguegothic;src: url('type/LeagueGothic-Regular.otf');
+}
 
 
 
