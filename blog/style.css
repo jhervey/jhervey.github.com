@@ -1,25 +1,52 @@
-body{
-	padding: 0px;
-	margin: 0px;
-}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,b, u, i, center, dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video 
+{margin: 0; padding: 0; border: 0; font-size: 100%;font: inherit; vertical-align: baseline;}
+/* HTML5 display-role reset for older browsers */
 
-#header{
-	text-align:left;
-	margin-bottom:-30px;
-}
-#topnav{text-align:right;border-bottom:solid;margin-right:300px;word-spacing: 15px;line-height:40px;}
-#left li{list-style-type:none;line-height:40px;margin-left:-20px;margin-right:50px;}
-#leftnav{position: absolute;margin-top: 20px;}
-#articles{margin-left:310px;margin-right:300px;margin-bottom:20px}
-#footer {clear:both;border-top:solid;margin-right:300px;line-height:20px}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display: block;}
+
+
+ol, ul {list-style: none;}
+
+blockquote, q {quotes: none;}
+
+blockquote:before, blockquote:after, q:before, q:after {content: '';content: none;}
+
+table {border-collapse: collapse;border-spacing: 0;}
+
+body{padding: 0px; margin: 0px;}
+
+#header{margin-bottom:-55px;padding-left:25px}
+
+#topnav{text-align:right;border-bottom:solid;width:100%;word-spacing:15px;line-height:40px;font-size:20px; padding-right:50px;}
+
+#left li{list-style-type:none;line-height:40px;margin-left:5px;}
+
+#leftnav{margin-top: 20px; font-size: 20px; float:left; width:25%;padding-left: 25px}
+
+#articles{float:right;width:70%;margin-bottom:20px; line-height:25px;padding-right:5px;font-size:20px}
+
+h5{font-size:15px;margin-top:20px}
+h2{font-size:30px;margin-bottom:20px}
+
+#footer {clear:both;border-top:solid;width:100%;line-height:20px}
+
 #about{margin-right:300px}
-a:link {text-decoration:none;}
-a:visited {text-decoration:none;}
+
+a:link{text-decoration:none;}
+
+a:visited{text-decoration:none;}
+
 body{font-family:Leaguegothic}
 
-@font-face{
-	font-family: Leaguegothic;src: url('type/LeagueGothic-Regular.otf');
-}
+@font-face{font-family: Leaguegothic;src:url('type/LeagueGothic-Regular.otf');}
+
+
+
+
+
+
 
 
 
